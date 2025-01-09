@@ -18,3 +18,6 @@
 - Visual Studio Code <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="20" height="20">
 - Oracle VirtualBox <img src="https://img.icons8.com/color/48/000000/virtualbox.png" width="20" height="20">
 - SQLDeveloper <img src="https://img.icons8.com/color/48/000000/sql.png" width="20" height="20">
+
+# Programming Languages Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAMINDTS&layout=compact&theme=dark">
