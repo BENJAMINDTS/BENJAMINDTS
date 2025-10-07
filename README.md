@@ -1,6 +1,6 @@
 # About Me
 
-- <img src="https://img.icons8.com/color/48/000000/laptop.png" width="20" height="20"> I am a student at FOC institute, currently in my first year.
+- <img src="https://img.icons8.com/color/48/000000/laptop.png" width="20" height="20"> I am a student at FOC institute, currently in my second year.
 - <img src="https://img.icons8.com/color/48/000000/idea.png" width="20" height="20"> My main goal is to develop my skills as a Full Stack Developer, focusing on technologies like React, Node.js, and NoSQL databases.
 - <img src="https://img.icons8.com/color/48/000000/spain-2.png" width="20" height="20"> I currently reside in Spain, but I would like to try my luck outside my country.
 
