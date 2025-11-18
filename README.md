@@ -6,7 +6,7 @@
 
 # Technologies
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/xml-file.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/php.png" width="40" height="40"> 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/windows-10.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/linux.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/sql.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/xml-file.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/php.png" width="40" height="40"> <img src="https://img.icons8.com/color/48/000000/python.png" width="40" height="40">
 
 # Software Used
 
