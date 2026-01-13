@@ -20,4 +20,4 @@
 - SQLDeveloper <img src="https://img.icons8.com/color/48/000000/sql.png" width="20" height="20">
 
 # Programming Languages Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAMINDTS&layout=compact&theme=dark&cache_seconds=1800">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENJAMINDTS&layout=compact&theme=dark">
