@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi there, I'm Benjamin</h1>
   <a href="https://github.com/BENJAMINDTS">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%2B+Node.js+Enthusiast;Clean+Code+%26+Documentation;Always+Learning...&font=Fira+Code&center=true&width=440&height=50&color=007BFF&vCenter=true" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Clean+Code+%26+Documentation;Always+Learning...&font=Fira+Code&center=true&width=440&height=50&color=007BFF&vCenter=true" alt="Typing SVG">
   </a>
   <br>
   <a href="https://www.linkedin.com/in/benjamin-santiago-gonzález-b69009352/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
