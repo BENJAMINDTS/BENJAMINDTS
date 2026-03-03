@@ -55,6 +55,7 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/Dolibarr-21446E?style=for-the-badge&logo=dolibarr&logoColor=white" alt="Dolibarr">
 </p>
 
 ### 🚀 DevOps, Build Tools & Deployment
