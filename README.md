@@ -26,7 +26,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -35,6 +37,7 @@
   <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" alt="Composer">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade">
+  <img src="https://img.shields.io/badge/Twig-bacb02?style=for-the-badge&logo=symfony&logoColor=white" alt="Twig">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony">
 </p>
 
@@ -86,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BENJAMINDTS&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BENJAMINDTS&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BENJAMINDTS&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages">
 </p>
 
 ---
@@ -96,4 +99,3 @@
 | Development & Build | Database & Environments | Office & Others |
 | :--- | :--- | :--- |
 | **VS Code**, **NetBeans**, **Git**, **Maven**, **Gradle** | **SQLDeveloper**, **HeidiSQL**, **XAMPP**, **VirtualBox**, **Apache**, **Tomcat** | **Word**, **Excel**, **Odoo**, **Docker**, **StarUML**, **Composer** |
->
